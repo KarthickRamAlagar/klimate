@@ -1,9 +1,10 @@
 <div align="center">
   <br />
-  <img src="src/assets/images/Screen1.png" alt="Project Banner" width="100%" />
+  <img src="./public/Screen.png" alt="Project Banner" width="100%" />
   <br />
+  <br/>
   <!-- Tech Stack Badges -->
-  <div>
+  <div style={"margin-top:2px"}>
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite&logoColor=white&color=646CFF" alt="vite" />
     <img src="https://img.shields.io/badge/-React_19-black?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" alt="tailwindcss" />

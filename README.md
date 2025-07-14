@@ -32,7 +32,7 @@
     <a href="https://github.com/karthickramalagar">
       <img src="https://img.shields.io/badge/GitHub-KarthickRamAlagar-black?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
-    <a href="[https://linkedin.com/in/karthickramalagar](https://www.linkedin.com/in/karthickeyan-ramalagar-763404370/)">
+    <a href="https://linkedin.com/in/karthickeyan-ramalagar-763404370/">
       <img src="https://img.shields.io/badge/LinkedIn-KarthickRamAlagar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:karthickramalagar@gmail.com">

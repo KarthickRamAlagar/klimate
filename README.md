@@ -22,7 +22,7 @@
 
   <br />
   <div align="center">
-    🌐 <strong>Live Demo</strong>: <a href="https://KarthickRamAlagar.github.io/klimate/">Klimate -Live Demo/a>
+    🌐 <strong>Live Demo</strong>: <a href="https://KarthickRamAlagar.github.io/klimate/">Klimate -Live Demo</a>
   </div>
 
   <br />
